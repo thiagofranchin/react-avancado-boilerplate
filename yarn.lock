@@ -2023,7 +2023,6 @@
     store2 "^2.7.1"
     ts-dedent "^1.1.1"
     util-deprecate "^1.0.2"
-
 "@storybook/client-api@6.0.27":
   version "6.0.27"
   resolved "https://registry.yarnpkg.com/@storybook/client-api/-/client-api-6.0.27.tgz#665b49ef6723162f2a570b54e9ddfdf9f77fe85f"
@@ -2068,6 +2067,7 @@
   resolved "https://registry.yarnpkg.com/@storybook/components/-/components-6.0.22.tgz#07b0804fb9b39787967be88d435540adddce328d"
   integrity sha512-sc7O4djNLajyJdVY4dUSO73L/+VM8IyzYKK9c5kSw4pN+l6M3EUBi4Zt/jdQc+WxSBmmriSe7aBOKrOSxBBSiA==
   dependencies:
+
     "@storybook/client-logger" "6.0.22"
     "@storybook/csf" "0.0.1"
     "@storybook/theming" "6.0.22"
@@ -2375,16 +2375,16 @@
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/react@^6.0.22":
-  version "6.0.22"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.0.22.tgz#64ff401194d7be62d238f766b47e85d7f170e4d1"
-  integrity sha512-sErMo8+KxuELTbx4VboAYEsgDEXXio1Tqmp1jfLoUhXIvQtcfbT9DrtwOoR4mixf7LwISuLikorTyOL+Z6Vg3g==
+"@storybook/react@^6.0.25":
+  version "6.0.25"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.0.25.tgz#4452414cad5fbb783b447fa289d46c825dc8ad78"
+  integrity sha512-2vhWAi5il9PuM/4lhAWLDbO8iB3SNSyBTUDtNQMNoO45iGr07cpaG3g1CkXFKz4I7NeiUqYM8NWlMNxjR9UiMw==
   dependencies:
     "@babel/preset-flow" "^7.0.0"
     "@babel/preset-react" "^7.0.0"
-    "@storybook/addons" "6.0.22"
-    "@storybook/core" "6.0.22"
-    "@storybook/node-logger" "6.0.22"
+    "@storybook/addons" "6.0.25"
+    "@storybook/core" "6.0.25"
+    "@storybook/node-logger" "6.0.25"
     "@storybook/semver" "^7.3.2"
     "@svgr/webpack" "^5.4.0"
     "@types/webpack-env" "^1.15.2"
